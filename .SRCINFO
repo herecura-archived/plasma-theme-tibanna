@@ -1,6 +1,6 @@
 pkgbase = plasma-theme-tibanna
-	pkgdesc = Tibanna plasmatheme for KDE 4.x + krayscale tray icons
-	pkgver = 6.1.0.8.1
+	pkgdesc = Tibanna plasmatheme for KDE 4.x + caledonia icons
+	pkgver = 6.1.1.3
 	pkgrel = 1
 	url = http://kde-look.org/content/show.php/Tibanna?content=115322
 	arch = any
@@ -8,9 +8,9 @@ pkgbase = plasma-theme-tibanna
 	depends = kdelibs
 	depends = kdebase-workspace
 	source = http://kde-look.org/CONTENT/content-files/115322-Tibanna.tar.gz
-	source = http://kde-look.org/CONTENT/content-files/133300-krayscale_0.8.1.tar.gz
+	source = caledonia-icons-1.3.tar.gz::http://www.herecura.eu/files/caledonia-icons.tar.gz
 	sha256sums = f191d891e1aa400fa26c68476b6ceca53a31bd92de23049c207a0195a74c7705
-	sha256sums = ae7c1022ca4503541bc7ee1efa885c44a0c49900f06a24d3610803e9c2eab256
+	sha256sums = b282aac8893263931a70f671275eab9c4e0783b7967c036a7b9bac9686ef4ef0
 
 pkgname = plasma-theme-tibanna
 
