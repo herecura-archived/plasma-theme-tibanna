@@ -1,6 +1,6 @@
 pkgname=plasma-theme-tibanna
 pkgver=6.1.1.3
-pkgrel=1
+pkgrel=2
 pkgdesc="Tibanna plasmatheme for KDE 4.x + caledonia icons"
 arch=('any')
 license=('GPL')
